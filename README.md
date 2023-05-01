@@ -2,20 +2,24 @@
 
 ### [CubeTrek](https://cubetrek.com)
 GPS Activity management and visualization website. Not (yet?) open sourced.
+
 Tech Stack: `Java`, `Spring Boot`, `Hibernate`, `PostgreSQL` (`PostGIS`), `JavaScript`, `Babylon.js`, `D3.js`, `ThymeLeaf`
 
 ## Github Projects
 
 ### [Nuftu](https://github.com/r-follador/nuftu)
 A webservice enabling non-technically versed artists to mint official Ethereum compliant ERC721 tokens.
+
 Tech Stack: `Java`, `Spring Boot`, `Hibernate`, `PostgreSQL`, `ThymeLeaf`, `Solidity`
 
 ### [DayNightMap](https://github.com/r-follador/DayNightMap)
 Android app showing a world map with areas of the earth in daylight, night and in twilight.
+
 Tech Stack: `Java`, `Android SDK`, `RenderScript`
 
 ### [GeneWarrior](https://github.com/r-follador/GeneWarrior)
 An online DNA and protein sequence manipulation tool.
+
 Tech Stack: `Java`, `Java Servlet`, `PostgreSQL`, `HTML5`, `jQuery`
 
 ## Data Science
@@ -53,6 +57,9 @@ Iron Modulates Butyrate Production by a Child Gut Microbiota In Vitro](https://j
 ### [Sun Locator](https://play.google.com/store/apps/details?id=com.genewarrior.sunlocator.lite)
 Android app to predict sun position over the course of the day and year. More than 800k downloads. Sold in 2023.
 
+Tech Stack: `Java`, `Android SDK`, `Three.js`
+
 ### [CubetrekXR](https://r-follador.github.io/cubetrekXR/)
 Topographical models for AR viewing
+
 Tech Stack: `GLTF`, `Augmented Reality`, `ARCore`/`ARKit`
