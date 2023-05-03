@@ -26,7 +26,7 @@ Tech Stack: `Java`, `Java Servlet`, `PostgreSQL`, `HTML5`, `jQuery`
 
 ### Some recent Kaggle examples
 - [Spaceship Titanic Notebook](https://www.kaggle.com/code/furstenwald/xgboost-and-optuna-to-get-quickly-to-almost-80)
-- [S3E13 Vector Borne Diseases](https://www.kaggle.com/code/furstenwald/xgboost-optuna-vector-borne-disease)
+- [S3E13 Vector Borne Diseases](https://www.kaggle.com/code/furstenwald/xgboost-optuna-vector-borne-disease) (Top 8%)
 
 Favorite technologies: `XGBoost`, `PyTorch`, `pandas`
 
