@@ -1,11 +1,11 @@
-## Current Project
+## Starred Project
 
 ### [CubeTrek](https://cubetrek.com)
-GPS Activity management and visualization website. Not (yet?) open sourced.
+GPS Activity management and visualization website. Under GPL v2.0; [Github Repo](https://github.com/r-follador/cubetrek).
 
 Tech Stack: `Java`, `Spring Boot`, `Hibernate`, `PostgreSQL` (`PostGIS`), `JavaScript`, `Babylon.js`, `D3.js`, `ThymeLeaf`
 
-## Github Projects
+## Other Projects
 
 ### [Nuftu](https://github.com/r-follador/nuftu)
 A webservice enabling non-technically versed artists to mint official Ethereum compliant ERC721 tokens.
